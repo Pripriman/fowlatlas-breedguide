@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+import 'package:breedguide/domain/breed_models.dart';
 import 'package:breedguide/domain/breed_catalog.dart';
 import 'package:breedguide/domain/breed_matcher.dart';
 import 'package:breedguide/domain/breed_traits.dart';
